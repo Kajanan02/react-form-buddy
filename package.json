@@ -1,0 +1,43 @@
+{
+  "name": "react-form-handler",
+  "version": "1.0.0",
+  "description": "React Form Handler is a lightweight library designed to simplify form management in React applications. It provides hooks and utilities to handle form state, validation, and submission efficiently.",
+  "main": "dist/index.js",
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [
+    "react",
+    "form",
+    "handler",
+    "validation",
+    "submission",
+    "hook",
+    "utility",
+    "library",
+    "lightweight",
+    "form-handler",
+    "react-form-handler",
+    "react-form-library",
+    "form-validation",
+    "form-hook"
+  ],
+  "author": "Kajanan <kajanan02000@gmail.com> (https://github.com/kajanan02)",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^16.8.0 || ^17.0.0 || ^18.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@babel/preset-env": "^7.25.4",
+    "@babel/preset-react": "^7.24.7",
+    "babel-loader": "^9.2.1",
+    "webpack": "^5.94.0",
+    "webpack-cli": "^5.1.4"
+  }
+}

@@ -1,0 +1,29 @@
+# Ignore configuration files
+webpack.config.js
+.babelrc
+
+# Ignore directories for source and dev files
+src/              # If the user doesn’t need the raw source code
+node_modules/     # Node modules should never be published
+dist/             # Only include the built files, not the entire dist folder
+
+# Ignore testing files (if you have any)
+__tests__/
+coverage/
+jest.config.js
+
+# Ignore environment and OS-specific files
+.env
+*.log
+.DS_Store
+Thumbs.db
+
+# Ignore lock files
+package-lock.json
+yarn.lock
+
+.idea
+.vscode
+
+.npmignore
+.gitignore
