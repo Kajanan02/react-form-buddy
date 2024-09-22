@@ -1,11 +1,8 @@
 {
-  "name": "@Kajanan02/react-form-buddy",
-  "version": "1.0.1",
+  "name": "react-form-buddy",
+  "version": "1.0.0",
   "description": "React Form Handler is a lightweight library designed to simplify form management in React applications. It provides hooks and utilities to handle form state, validation, and submission efficiently.",
   "main": "dist/index.js",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
   "files": [
     "dist",
     "README.md",
