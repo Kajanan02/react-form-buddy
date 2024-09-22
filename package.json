@@ -1,5 +1,5 @@
 {
-  "name": "react-form-handler",
+  "name": "react-form-buddy",
   "version": "1.0.0",
   "description": "React Form Handler is a lightweight library designed to simplify form management in React applications. It provides hooks and utilities to handle form state, validation, and submission efficiently.",
   "main": "dist/index.js",
@@ -23,6 +23,7 @@
     "lightweight",
     "form-handler",
     "react-form-handler",
+    "react-form-buddy",
     "react-form-library",
     "form-validation",
     "form-hook"

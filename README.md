@@ -1,17 +1,17 @@
-# react-form-handler
+# react-form-buddy
 
 A lightweight form handler for React applications.
 
 ## Installation
 
 ```bash
-npm install react-form-handler
+npm install react-form-buddy
 ```
 
 ## Usage
 
 ```jsx
-import FormHandler from 'react-form-handler';
+import FormHandler from 'react-form-buddy';
 
 const MyForm = () => {
     const validate = (values) => {
