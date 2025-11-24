@@ -1,2 +1,2 @@
-import FormHandler from './FormHandler';
-export default FormHandler;
+import useFormHandler from './useFormHandler';
+export default useFormHandler;

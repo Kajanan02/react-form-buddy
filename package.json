@@ -1,6 +1,6 @@
 {
   "name": "react-form-buddy",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "React Form Handler is a lightweight library designed to simplify form management in React applications. It provides hooks and utilities to handle form state, validation, and submission efficiently.",
   "main": "dist/index.js",
   "files": [
@@ -13,25 +13,29 @@
   },
   "keywords": [
     "react",
+    "react-hook",
     "form",
-    "handler",
-    "validation",
-    "submission",
-    "hook",
-    "utility",
-    "library",
-    "lightweight",
     "form-handler",
-    "react-form-handler",
-    "react-form-buddy",
-    "react-form-library",
+    "form-hook",
+    "react-form",
+    "react-forms",
     "form-validation",
-    "form-hook"
+    "validation",
+    "form-library",
+    "react-form-library",
+    "react-form-buddy",
+    "use-form",
+    "useform",
+    "form-state",
+    "controlled-form",
+    "react-validation",
+    "lightweight",
+    "utility"
   ],
   "author": "Kajanan <kajanan02000@gmail.com> (https://github.com/kajanan02)",
   "license": "MIT",
   "peerDependencies": {
-    "react": "^16.8.0 || ^17.0.0 || ^18.0.0"
+    "react": "^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
