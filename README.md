@@ -5,6 +5,14 @@ A lightweight, customizable, and developer-friendly **React form handler** built
 
 Perfect for React developers who want a clean, simple API that “just works”.
 
+<p align="center">
+  <img alt="npm" src="https://img.shields.io/npm/v/react-form-buddy?style=for-the-badge&color=blue" />
+  <img alt="npm" src="https://img.shields.io/npm/dt/react-form-buddy?style=for-the-badge&color=green" />
+  <img alt="npm" src="https://img.shields.io/bundlephobia/minzip/react-form-buddy?style=for-the-badge&color=purple" />
+  <img alt="npm" src="https://img.shields.io/github/license/kajanan02/react-form-buddy?style=for-the-badge&color=yellow" />
+  <img alt="npm" src="https://img.shields.io/github/stars/kajanan02/react-form-buddy?style=for-the-badge&color=orange" />
+</p>
+
 ---
 
 ## 🚀 Features
